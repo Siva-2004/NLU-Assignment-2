@@ -27,9 +27,11 @@ jupyter notebook
 
 2. Navigate to and open `Word_Embeddings.ipynb`
 
-3. Run the notebook cells sequentially using `Shift+Enter` or click the "Run All" button
+3. Cross check the paths to the data and update the path if required.
 
-4. The notebook will:
+4. Run the notebook cells sequentially using `Shift+Enter` or click the "Run All" button
+
+5. The notebook will:
    - Load and preprocess the IIT Jodhpur corpus
    - Display dataset statistics
    - Train CBOW and Skip-gram Word2Vec models
