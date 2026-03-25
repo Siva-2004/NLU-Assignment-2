@@ -4,6 +4,8 @@
 
 ### Prerequisites
 
+Extract the data from Data.zip
+
 Install the required dependencies:
 
 ```bash
